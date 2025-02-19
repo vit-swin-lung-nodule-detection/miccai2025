@@ -1,3 +1,3 @@
 # Vit-SwinUNETR-lung-nodule-detection
 
-This repository was created to make the code of the submission to MICCAI2025 publicly available.
+This repository contains the code for our MICCAI 2025 submission.
